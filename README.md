@@ -24,6 +24,9 @@ A creative and interactive computer vision project that detects smiles using fac
 
 **Tech Used:** Python, MediaPipe, OpenCV
 
+🔗 **Project Link:**  
+[https://github.com/YOUR-USERNAME/smile-detector](https://github.com/Mo-ysf/Smile-detector)
+
 ---
 
 ## 🛠️ Skills & Tools
